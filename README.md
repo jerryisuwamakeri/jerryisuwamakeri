@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @jerryisuwamakeri
-- 👀 I’m interested in Programming, Entreprenuership, Music and Chess ...
-- 🌱 I’m an Expert in Kotlin, Vue.JS, Mongo DB, Tensor Flow, Laravel and JSQuery ...
-- 💞️ I’m looking to collaborate on great minds on this platform so as to attain effective developmental milestones...
-- 📫 How to reach me, hit me up via: +2348022547379 on Whatsapp, Jerry Isuwa Makeri on LinkedIn and Facebook ...
+const Makeri Jerry Isuwa= {
+  lookingFor: "Front-end developer" || "Full-stack web developer" || "Back-end developer",
+  code: ["JavaScript", "React", "PHP" "Redux", "Ruby and Ruby on Rails", "HTML/CSS", "Semantic UI", "Bootstrap", "Vue.js", "SQL", "AWS"],
+  askMeAbout: ["Football", "Cars", "Business"],
+  challenge: "I am honing my JS skills and picking up new skills in Artificial Intelluigence and Machine Learning",
+  funFacts: ['I have remote work experience with developers 
+  from all over the world', 
+  'I am ready to engage in Projects at the right agreement']
+}
 
 <!---
 jerryisuwamakeri/jerryisuwamakeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
