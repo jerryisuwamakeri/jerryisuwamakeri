@@ -1,7 +1,7 @@
 const Makeri Jerry Isuwa= {
   lookingFor: "Front-end developer" || "Full-stack web developer" || "Back-end developer",
   code: ["JavaScript", "React", "PHP" "Redux", "Ruby and Ruby on Rails", "HTML/CSS", "Semantic UI", "Bootstrap", "Vue.js", "SQL", "AWS"],
-  askMeAbout: ["Football", "Cars", "Business"],
+  askMeAbout: ["Rap", "Programming", "Business"],
   challenge: "I am honing my JS skills and picking up new skills in Artificial Intelluigence and Machine Learning",
   funFacts: ['I have remote work experience with developers 
   from all over the world', 
